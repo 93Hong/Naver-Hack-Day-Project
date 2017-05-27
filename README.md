@@ -20,12 +20,3 @@
 
 ## 개발OS
 - centos-7.3-64
-
-## 데이터
-- 학습데이터  -  http://restapi.fs.ncloud.com/shopping-ca-cls/shopping-ca-cls.data.tsv
-- 검증데이터  -  http://restapi.fs.ncloud.com/shopping-ca-cls/shopping-ca-cls.data.test.tsv
-- 구분자 : \t
-- 필드순서 : 상품SEQ, 카테고리, 브랜드, 제조사, 가격, 이미지, 상품명
-
-## 멘토
-- 쇼핑검색플랫폼 / 김태경 / kim.taekyung@navercorp.com / 010-4347-7335
